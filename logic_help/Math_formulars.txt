@@ -1,0 +1,93 @@
+﻿Math Formulars
+for slope:
+(y2- y1) / (x2 - x1)
+to get the y intercept: y = mx + b
+m = slope
+replace values of x and y with any two points (either x1 and y1) or (x2 and y2)
+
+to convert from farenheit to celcious and vice versa:
+f = 9/5c + 32
+c = 5/9(f- 32)
+
+DIVISIBILITY TESTS
+Divisibility tests are rules that let you quickly tell if one number is divisible
+by another. There are many divisibility tests. Here are some of the most useful 
+and easy to remember:
+
+ 
+A number is divisible by 2 if the last (ones) digit is divisible by 2. That is, 
+the last digit is 0, 2, 4, 6, or 8. (We then say the number is an even number.)
+For example, in the number 236, the last digit is 6. Since 6 is divisible by 2 
+(6 ÷ 2 = 3), 236 is divisible by 2.
+ 
+
+A number is divisible by 3 if the sum of all the digits is divisible by 3.
+For example, the sum of the digits of 411 is 4 + 1 + 1 = 6. Since 6 is divisible
+by 3 (), 411 is divisible by 3.
+
+A number is divisible by 5 if the last digit is 0 or 5. For example, 275 and 1,340
+ are divisible by 5 because the last digits are 5 and 0.
+ 
+
+A number is divisible by 10 if the last digit is 0. For example, 520 is divisible
+by 10 (last digit is 0).
+ 
+
+Other useful divisibility tests:
+
+ 
+
+4: A number is divisible by 4 if the last two digits are divisible by 4.
+
+ 
+
+6: A number is divisible by 6 if it is divisible by both 2 and 3.
+
+ 
+
+9: A number is divisible by 9 if the sum of its digits is divisible by 9.
+
+
+Triangular/Triangle numbers: counts objects arranged in an equilateral triangle. 
+The nth triangular number is the number of dots in the triangular arrangement with
+n dots on a side, and is equal to the sum of the n natural numbers from 1 to n. 
+The sequence of triangular numbers (sequence A000217 in the OEIS), starting at the
+0th triangular number, is
+
+0, 1, 3, 6, 10, 15, 21, 28, 36, 45, 55, 66, 78, 91, 105, 120, 136, 153, 171, 190,
+210, 231, 253, 276, 300, 325, 351, 378, 406, 435, 465, 496, 528, 561, 595, 630, 
+666...
+
+producing a rectangle with dimensions (n*(n+1))which is also the number of objects
+in the rectangle. Clearly, the triangular number itself is always exactly half of
+the number of objects in such a figure, or: Tn = (n(n+1))/2
+
+In Pascal's triangle, each number is the sum of the two numbers directly above it.
+
+Tetrahedral number, or triangular pyramidal number, is a figurate number that
+represents a pyramid with a triangular base and three sides, called a tetrahedron.
+The nth tetrahedral number is the sum of the first n triangular numbers.
+The first ten tetrahedral numbers are:
+1, 4, 10, 20, 35, 56, 84, 120, 165, 220, … (sequence A000292 in the OEIS)
+The formula for the n-th tetrahedral number is represented by the 3rd rising 
+factorial of n divided by the factorial of 3:
+
+Tn = (n(n+1)(n+2))/6
+ 
+pentatope number is a number in the fifth cell of any row of Pascal's triangle 
+starting with the 5-term row 1 4 6 4 1 either from left to right or from right to
+left.The first few numbers of this kind are :
+1, 5, 15, 35, 70, 126, 210, 330, 495, 715, 1001, 1365 (sequence A000332 in the OEIS)
+A pentatope with side length 5 contains 70 3-spheres. Each layer represents one of
+the first five tetrahedral numbers. For example the bottom (green) layer has 35 
+spheres in total.
+Pentatope numbers belong in the class of figurate numbers, which can be represented
+as regular, discrete geometric patterns.
+The formula for the nth pentatopic number is:
+
+Tn = (n(n+1)(n+2)(n+3))/24
+
+simplex numbers: A single point may be considered a 0-simplex, and a line segment
+may be considered a 1-simplex. A simplex may be defined as the smallest convex set
+containing the given vertices. A regular simplex is a simplex that is also a regular
+polytope.
