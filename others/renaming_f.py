@@ -14,5 +14,4 @@ for f in os.listdir(fder):
     oldbase = os.path.splitext(f)
     # print(file_ext)
     name = f_name.replace('.txt', '.py')
-    # output =
-    print(os.rename(f_name, name))
+        output = (os.rename(f_name, name))
