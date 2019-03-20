@@ -96,3 +96,20 @@ when told to rebase, it means setting
 When excluding a group from a calculation, rebasing involves dividing by the percentage of the sample that remains after the group is excluded. For example, if 40% of people say they will vote Democrat and 20% say they don’t know, we rebase by dividing the 40% by 100% – 20%, which gives 40% / 80% = 50%.
 Sometime rebasing calculations can be more complicated and involve recalculating all the numbers using the original data. For example, if we wanted to rebase the percentage of people who said they would vote Democrat to reflect only people who had voted in the previous presidential election, we need to use the original raw data to perform the calculation. Although this last approach is sometimes called rebasing, it is more commonly known as filtering or subgroup analysis an example where original data is 100
 Rebasing means setting the current year as if it was 100. In order to work out what the food should be in y3 if it were rebased in y1, we do the following calculation: 100(Price in y3/Price in y1) 100(115/110) 104.545455
+
+smart logic
+Sally wants to purchase a machine that produces beads to make jewelry. The machine produces 1,000 beads every half hour. She can use 40 beads to make a necklace which sells for $5.00 or use 25 beads to make a bracelet that sells for $3.00. The machine costs $5,000 and she uses it for 2.5 hours a day.
+
+Assuming she wants to make four times as many necklaces as bracelets, after how many days will the machine have fully paid for itself?
+The question has not been answered.
+A 4
+B 5
+C 8
+D 9
+
+Explanation
+The easiest way to answer this question is to put the beads required to make 4 necklaces and 1 bracelet together to form 1 unit. To make 4 necklaces and 1 bracelet we need (40 x 4) + 25 = 185 beads and it makes (5 x 4) + 3 = $23. 
+
+She uses it for 2.5 hours a day, therefore each day the machine produces 5,000 beads and therefore 5,000 ÷ 185 = 27.027 units 
+Which earns 27.027 x $23 = $621.621 a day
+Given that the machine costs $5,000 it will take her 5,000 ÷ 621.621 = 8.043 days to pay the machine off which implies 9 days to fully pay for itself.
