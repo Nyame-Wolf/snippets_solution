@@ -91,3 +91,8 @@ simplex numbers: A single point may be considered a 0-simplex, and a line segmen
 may be considered a 1-simplex. A simplex may be defined as the smallest convex set
 containing the given vertices. A regular simplex is a simplex that is also a regular
 polytope.
+
+when told to rebase, it means setting 
+When excluding a group from a calculation, rebasing involves dividing by the percentage of the sample that remains after the group is excluded. For example, if 40% of people say they will vote Democrat and 20% say they don’t know, we rebase by dividing the 40% by 100% – 20%, which gives 40% / 80% = 50%.
+Sometime rebasing calculations can be more complicated and involve recalculating all the numbers using the original data. For example, if we wanted to rebase the percentage of people who said they would vote Democrat to reflect only people who had voted in the previous presidential election, we need to use the original raw data to perform the calculation. Although this last approach is sometimes called rebasing, it is more commonly known as filtering or subgroup analysis an example where original data is 100
+Rebasing means setting the current year as if it was 100. In order to work out what the food should be in y3 if it were rebased in y1, we do the following calculation: 100(Price in y3/Price in y1) 100(115/110) 104.545455
